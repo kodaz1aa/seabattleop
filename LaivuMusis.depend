@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1558106518 source:c:\users\ignas\desktop\new folder\laivumusis\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	"LaivuMusis.h"
+	"Lenta.h"
+	<string>
+
+1558026080 c:\users\ignas\desktop\new folder\laivumusis\laivumusis.h
+
+1558023936 c:\users\ignas\desktop\new folder\laivumusis\lenta.h
+
+1558022951 source:c:\users\ignas\desktop\new folder\laivumusis\laivumusis.cpp
+	"LaivuMusis.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<string>
+
+1558023936 source:c:\users\ignas\desktop\new folder\laivumusis\lenta.cpp
+	"Lenta.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<string>
+
